@@ -2,7 +2,7 @@
 
 A comprehensive, privacy-first platform for detecting scams in text messages and voice calls using advanced AI. Built for the hackathon with a focus on protecting vulnerable users from fraud.
 
-## Features
+## Core Features
 
 - **Text Message Analysis**: Detects phishing, financial scams, identity theft attempts, and other fraud indicators
 - **Voice Call Analysis**: Transcribes audio and detects deepfake voices, voice spoofing, and fraudulent content
@@ -11,7 +11,7 @@ A comprehensive, privacy-first platform for detecting scams in text messages and
 - **Real-Time Results**: Instant analysis with detailed explanations of detected threats
 - **Elderly Protection**: Designed with accessibility for older users in mind
 
-## Architecture
+##  System Architecture
 
 ```
 ┌─────────────────────────────────────────────────┐
