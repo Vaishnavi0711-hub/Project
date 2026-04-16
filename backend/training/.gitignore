@@ -1,0 +1,32 @@
+# Training data - not committed to repo
+data/
+
+# Model checkpoints and weights
+*.pt
+*.pth
+*.ckpt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+training_logs/
+
+# Temporary files
+*.tmp
+*.temp

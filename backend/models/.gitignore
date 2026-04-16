@@ -1,0 +1,12 @@
+# Model checkpoints - not committed to repo (too large)
+# Download trained models from the project page or train locally
+
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.pickle
+
+# Training artifacts
+*.json
+*.log
