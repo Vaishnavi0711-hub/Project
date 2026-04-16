@@ -262,7 +262,7 @@ TRUST.AI is a supplementary tool and should not be the sole basis for security d
 
 ---
 
-**TEAM GIT HAPPENS** 
+**TEAM RISK RANGERS** 
 
 Team Lead: M Vaishnavi Sai
 
