@@ -264,11 +264,11 @@ TRUST.AI is a supplementary tool and should not be the sole basis for security d
 
 **TEAM GIT HAPPENS** 
 
-Team Lead: PUSHPANJALI SINHA
+Team Lead: M Vaishnavi Sai
 
-Member 2: Rohan A M
+Member 2: Charan Peddi
 
-Member 3 :Navami Ramdas Kakkanattu
+Member 3 :Sampat Eswar
 
-Member 4 : Muthuaryan Aasarri
+
 
