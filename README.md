@@ -1,4 +1,4 @@
-# TRUST.AI - AI-Powered Scam Detection
+# AI-Powered Scam Detection
 
 A comprehensive, privacy-first platform for detecting scams in text messages and voice calls using advanced AI. Built for the hackathon with a focus on protecting vulnerable users from fraud.
 
@@ -15,14 +15,14 @@ A comprehensive, privacy-first platform for detecting scams in text messages and
 
 ```
 ┌─────────────────────────────────────────────────┐
-│         TRUST.AI Frontend (Next.js)             │
+│         AI Frontend (Next.js)             │
 │  Landing Page | Dashboard | Results Display     │
 └────────────────────┬────────────────────────────┘
                      │
               HTTP/JSON API
                      │
 ┌────────────────────▼────────────────────────────┐
-│     TRUST.AI Backend (FastAPI + Python)         │
+│    AI Backend (FastAPI + Python)         │
 │                                                 │
 │  Routes:                                        │
 │  ├── POST /api/analyze-text                    │
@@ -146,7 +146,7 @@ GET /health
 Response:
 {
   "status": "ok",
-  "service": "trust-ai-backend"
+  "service": "ai-backend"
 }
 ```
 
@@ -258,7 +258,7 @@ For issues or questions:
 
 ## Disclaimer
 
-TRUST.AI is a supplementary tool and should not be the sole basis for security decisions. Always verify suspicious communications through official channels directly. The AI system may have false positives and false negatives.
+This is a supplementary tool and should not be the sole basis for security decisions. Always verify suspicious communications through official channels directly. The AI system may have false positives and false negatives.
 
 ---
 
